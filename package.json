@@ -1,7 +1,6 @@
 {
   "name": "comp3104",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Warning: No tests created yet.\""
@@ -16,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/cnoonanGB/comp3104/issues"
   },
-  "homepage": "https://github.com/cnoonanGB/comp3104#readme"
+  "homepage": "https://github.com/cnoonanGB/comp3104#readme",
+  "description": ""
 }
